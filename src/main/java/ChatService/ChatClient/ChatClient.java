@@ -26,7 +26,6 @@ public class ChatClient extends Application {
     }
     // TODO Methode implementieren
     public void close_connection(){
-        System.out.println("Hello");
     }
     // TODO Methode implementieren
     public void handle_connection(){
